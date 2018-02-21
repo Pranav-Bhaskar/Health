@@ -5,4 +5,10 @@
     <string name="health_tv_2">Weight</string>
     <string name="health_tv_3">Sugar Level</string>
     <string name="health_b_1">Done</string>
+    <string name="uw_tv_head">Your results are UnderWeight</string>
+    <string name="uw_tv_2">"Content"</string>
+    <string name="ow_tv_head">Your results are OwerWeight</string>
+    <string name="ow_tv_2">"Content"</string>
+    <string name="db_tv_head">Your are Diabetic</string>
+    <string name="db_tv_1">"Content"</string>
 </resources>
