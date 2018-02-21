@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="health_tv_head">Health Calculator</string>
+    <string name="health_tv_1">Height</string>
+    <string name="health_tv_2">Weight</string>
+    <string name="health_tv_3">Sugar Level</string>
+    <string name="health_b_1">Done</string>
+</resources>
