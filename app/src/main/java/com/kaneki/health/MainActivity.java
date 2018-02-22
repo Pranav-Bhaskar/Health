@@ -49,15 +49,17 @@ public class MainActivity extends AppCompatActivity {
                 double v = Double.parseDouble( height.getText().toString());
 
                 double z = Double.parseDouble( weight.getText().toString());
+                if(v>=0&&z>=0) {
 
-                bmi = z/v;
-               if (bmi>=25)
-                   setContentView(R.layout.overweight);
-               else if (bmi<=19)
-                   setContentView(R.layout.underweight);
-               else if (bmi>19&&bmi<25)
-                   setContentView(R.layout.fitbmi);
+                    bmi = z / v;
+                    if (bmi >= 25)
+                        setContentView(R.layout.overweight);
+                    else if (bmi <= 19)
+                        setContentView(R.layout.underweight);
+                    else if (bmi > 19 && bmi < 25)
+                        setContentView(R.layout.fitbmi);
 
+                }
 
 
             }
