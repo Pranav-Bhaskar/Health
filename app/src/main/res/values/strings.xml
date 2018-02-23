@@ -6,11 +6,42 @@
     <string name="health_tv_3">Sugar Level</string>
     <string name="health_b_1">Calculate BMI</string>
     <string name="uw_tv_head">Your results are UnderWeight</string>
-    <string name="uw_tv_2">"Content"</string>
-    <string name="ow_tv_head">Your results are OwerWeight</string>
-    <string name="ow_tv_2">"Content"</string>
+    <string name="uw_tv_2">"Why are you underweight?
+If our healthy weight calculator has told you that you may be underweight, think about why this might be:
+
+Have you felt unwell? There might be an underlying medical cause for your low weight, such as an overactive thyroid.
+Have you been finding it difficult to make time to have a healthy, balanced diet with regular meals?
+Have you lost your appetite, perhaps because you're worried or stressed?
+Have you been trying to lose weight?
+        Nutritional deficiencies: if you're underweight, it's likely that you're not consuming a healthy, balanced diet, which can lead to you lacking nutrients that your body needs to work properly. Calcium, for example, is important for the maintenance of strong and healthy bones. If you don't get enough calcium, you risk developing osteoporosis (fragile bone disease) in later life. If you're not consuming enough iron, you may develop anaemia, which can leave you feeling drained and tired.
+Weakened immune system: your immune system isn't 100% when you're underweight, so you're more likely to catch a cold, the flu or other infections.
+Fertility problems: women who are underweight can find that their periods stop.
+        "</string>
+    <string name="ow_tv_head">Your results are OverWeight</string>
+    <string name="ow_tv_2">"Overweight: The term "overweight" is used in two different ways. In one sense it is a way of saying imprecisely that someone is heavy. The other sense of "overweight" is more precise and designates a state between normal weight and obesity.
+
+The National Institutes of Health (NIH) now defines overweight in terms of the BMI (the body mass index) which is a person's weight in kilograms (kg) divided by their height in meters (m)squared. Since the BMI describes the body weight relative to height, it correlates strongly (in adults) with the total body fat content.
+
+Overweight is a BMI of 27.3 % or more for women and 27.8 % or more for men, according to the NIH.
+
+Obesity is a BMI of 30 and above, according to the NIH.
+        Overweight and obesity may increase the risk of many health problems, including diabetes, heart disease, and certain cancers. If you are pregnant, excess weight may lead to short- and long-term health problems for you and your child.
+
+This fact sheet tells you more about the links between excess weight and many health conditions. It also explains how reaching and maintaining a normal weight may help you and your loved ones stay healthier as you grow older."</string>
     <string name="db_tv_head">Your are Diabetic</string>
-    <string name="db_tv_1">"Content"</string>
+    <string name="db_tv_1">"How Do I Know If I Have Diabetes?
+Your doctor may suspect you have diabetes if you have some risk factors for diabetes, or if you have high levels of blood sugar in your urine. Your blood sugar (also called blood glucose) levels may be high if your pancreas is producing little or no insulin (type 1 diabetes), or if the body is not responding normally to insulin (type 2 diabetes).
+
+Getting diagnosed begins with one of three tests. in most cases, your doctor will want to repeat a test that is high in order to confirm the diagnosis:
+
+A fasting glucose test is a test of your blood sugar levels taken in the morning before you have eaten. A level of 126 mg/dL or higher may mean that you have diabetes.
+An oral glucose tolerance test (OGTT) entails drinking a beverage containing glucose and then having your blood glucose levels checked every 30 to 60 minutes for up to 3 hours. If the glucose level is 200 mg/dL or higher at 2 hours, then you might have diabetes.
+The A1c test  is a simple blood test that shows your average blood sugar levels for the past 2-3 months. An A1c level of 6.5% or higher may mean you have diabetes.
+    What Are the Treatments for Diabetes?
+Diabetes is a serious disease that you cannot treat on your own. Your doctor will help you make a diabetes treatment plan that is right for you -- and that you can understand. You may also need other health care professionals on your diabetes treatment team, including a foot doctor, nutritionist, eye doctor, and a diabetes specialist (called an endocrinologist).
+
+Treatment for diabetes requires keeping close watch over your blood sugar levels (and keeping them at a goal set by your doctor) with a combination of medications, exercise, and diet. By paying close attention to what and when you eat, you can minimize or avoid the "seesaw effect" of rapidly changing blood sugar levels, which can require quick changes in medication dosages, especially insulin.
+    "</string>
     <string name="diabetic_test">"Diabetic Test"</string>
 
 
